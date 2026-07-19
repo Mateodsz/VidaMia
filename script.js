@@ -89,19 +89,31 @@ startButton.addEventListener("click",()=>{
 // ABRIR SOBRE
 //==============================
 
-envelope.addEventListener("click",()=>{
+envelope.addEventListener("click", () => {
 
-    lid.style.transform="rotateX(180deg)";
+    // Abrir tapa
+    lid.style.transform = "rotateX(180deg)";
 
-    setTimeout(()=>{
+    // Desaparecer el sobre
+    setTimeout(() => {
+        envelope.classList.add("hide");
+    }, 800);
 
-        envelopeSection.classList.add("hidden");
+    // Mostrar la carta
+    setTimeout(() => {
+
+        envelopeSection.style.display = "none";
 
         letterSection.classList.remove("hidden");
 
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+
         typeWriter();
 
-    },1200);
+    }, 1500);
 
 });
 

@@ -841,3 +841,28 @@ CELULARES PEQUEÑOS
     }
 
 }
+/* Desaparece el sobre */
+
+.envelope.hide{
+
+    animation:hideEnvelope .8s forwards;
+
+}
+
+@keyframes hideEnvelope{
+
+    from{
+
+        opacity:1;
+        transform:scale(1);
+
+    }
+
+    to{
+
+        opacity:0;
+        transform:scale(.8);
+
+    }
+
+}
