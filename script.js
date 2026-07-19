@@ -25,16 +25,16 @@ const typing = document.getElementById("typing");
 
 const message = `
 
-Querida Laura...
+Mi amor bonito...
 
 Hoy solo quería regalarte unos minutos de mi corazón.
 
-A veces las palabras no alcanzan para expresar todo lo que siento por ti.
+A veces las palabras no alcanzan para expresar todo lo que siento por ti...
+Se que hoy no hay ninguna fecha especial jajaja así que esto te tomará por sorpresa.
+Eres todo lo que quiero para mi, eres increible, única, preciosa y por supuesto muy valiosa.
 
 Gracias por cada sonrisa.
-
 Gracias por cada abrazo.
-
 Gracias por cada momento que hemos vivido.
 
 Desde aquel 5 de mayo de 2025 mi vida cambió completamente.
@@ -42,27 +42,18 @@ Desde aquel 5 de mayo de 2025 mi vida cambió completamente.
 Llegaste para darle más color a mis días y más motivos a mi corazón para sonreír.
 
 No eres solamente mi novia...
-
 Eres mi mejor amiga.
-
 Mi apoyo.
-
 Mi tranquilidad.
-
 Mi alegría.
 
 Y una de las mayores bendiciones que Dios me ha permitido conocer.
-
 Deseo seguir caminando contigo, creciendo contigo y construyendo recuerdos que nunca olvidemos.
 
-Gracias por existir.
-
 Gracias por elegirme.
-
 Y gracias por permitirme amarte.
 
 Te amo muchísimo.
-
 Con todo mi corazón...
 
 Mateo ❤️
